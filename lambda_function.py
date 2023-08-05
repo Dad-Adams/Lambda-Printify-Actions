@@ -7,6 +7,7 @@ import botocore
 import decimal
 
 
+
 #Constants
 #Notes: Product,Print Provider and Desc have potential to be customized in settings
 # Potential Issues: Everything is hardcoded to the dev images bucket
